@@ -1,0 +1,8 @@
+if a>b:
+ \tprint(c)
+
+while c>0:
+ \tn=c %10
+ \tif n>5:
+ \tprint(n)
+ \tc %= 10
